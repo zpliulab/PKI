@@ -14,8 +14,10 @@ Figure 1. The workflow of PKI method. (A) ODE model describes cell-specific GRN.
 * If you have any questions about **PKI**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
 
 ## Usage
-python = 3.9
+
 * PKIpipeline.py: includes functions in PKI method
 * ODE_model_justify.py: Justify the ODE model
 * SingleNodeEvaluation.py: Single node evaluation based on PKI score
 * FindKeyCombinations.py: Find key combinations in different number of nodes 
+
+Corresponding datasets are in the folders: DreamDataset,ESCdataset
